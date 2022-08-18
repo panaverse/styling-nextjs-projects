@@ -23,3 +23,9 @@ Learning Material:
 Reference Material:
 
 [Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui)
+
+[Chakra UI Figma Kit](https://www.figma.com/community/file/971408767069651759)
+
+[How to build a UI design system](https://www.secretstache.com/blog/ui-design-system/)
+
+[Yogi Starter Kit for Backlight Design System based on Chakra UI](https://github.com/divriots/starter-yogi)
