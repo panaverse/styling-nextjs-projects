@@ -57,7 +57,9 @@ Design System:
 
 
 
-Reference Material:
+Resources:
 
-[Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui)
+[Awesome Chakra UI Resources](https://github.com/chakra-ui/awesome-chakra-ui)
+
+[Design Heaven: Videos, Images, etc.](https://github.com/dimitrisraptis96/design-heaven)
 
