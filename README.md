@@ -31,3 +31,5 @@ Reference Material:
 [Yogi Starter Kit for Backlight Design System based on Chakra UI](https://github.com/divriots/starter-yogi)
 
 [Blacklight Design System](https://backlight.dev/)
+
+[Build and Ship a Design System in 8 Steps Using Backlight](https://tympanus.net/codrops/2022/01/24/build-and-ship-a-design-system-in-8-steps-using-backlight/)
