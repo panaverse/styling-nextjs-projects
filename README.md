@@ -20,11 +20,31 @@ Learning Material:
 [Responsive Style](https://chakra-ui.com/docs/styled-system/responsive-styles)
 
 
-Reference Material:
+Templates:
 
-[Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui)
+[Templates](https://chakra-templates.dev/)
 
-[Chakra UI Figma Kit](https://www.figma.com/community/file/971408767069651759)
+[Chakra Templates UI Kit](https://www.figma.com/community/file/935959613109017886)
+
+[Purity UI Dashboard - Chakra Admin Template](https://www.creative-tim.com/product/purity-ui-dashboard)
+
+[Purity UI Dashboard - Figma](https://www.figma.com/community/file/1017053507572291952)
+
+
+Figma Resources:
+
+[Design Workflow with Chakra UI and Figma](https://www.youtube.com/watch?v=Gm7qHn9Y_Ro)
+
+[Chakra UI Figma Kit](https://www.figma.com/community/file/971408767069651759) 
+
+[Chakra UI - Design Kit for Figma](https://segunadebayo.gumroad.com/l/KbHtQ)
+
+[Figma Variants Tutorial: UI Design for Developers Video](https://www.youtube.com/watch?v=b9XSghqBVxI)
+
+
+Design System:
+
+[Build Your Own Design System with ChakraUI Video](https://www.youtube.com/watch?v=epJuxo8FKFA)
 
 [How to build a UI design system](https://www.secretstache.com/blog/ui-design-system/)
 
@@ -33,3 +53,11 @@ Reference Material:
 [Blacklight Design System](https://backlight.dev/)
 
 [Build and Ship a Design System in 8 Steps Using Backlight](https://tympanus.net/codrops/2022/01/24/build-and-ship-a-design-system-in-8-steps-using-backlight/)
+
+
+
+
+Reference Material:
+
+[Awesome Chakra UI](https://github.com/chakra-ui/awesome-chakra-ui)
+
