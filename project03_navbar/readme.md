@@ -25,10 +25,13 @@ First review the study material and then build the project given the sample app.
 
 ### Project Sample App:
 
-[Build a clone of the Top Bar App for this Next App](https://project00-topbar.vercel.app)
+[Build a clone of the Top Bar App for this Next App](https://project03-navbar.vercel.app)
 
 Note the responsiveness of the design.
 
 [Deploy it on Versel](https://github.com/panacloud-modern-global-apps/nextjs/tree/main/step36_deploy_vercel)
 
 https://vercel.com/docs/cli
+
+
+
