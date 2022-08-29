@@ -8,7 +8,7 @@ Learning Videos:
 
 Color Palettes:
 
-You can use websites like [Smart Swatch](https://smart-swatch.netlify.app/), [Coolors](https://coolors.co/) or [Palx](https://palx.jxnblk.com/) to generate a palette.
+You can use websites like [Smart Swatch](https://smart-swatch.netlify.app/), [Coolors](https://coolors.co/) or [Palx](https://palx.jxnblk.com/) to generate a palette. It can also be used to define your own colorScheme palette.
 
 
 Learning Material:
