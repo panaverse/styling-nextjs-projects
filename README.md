@@ -6,6 +6,10 @@ Learning Videos:
 
 [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
 
+Color Palettes:
+
+You can use websites like [Smart Swatch](https://smart-swatch.netlify.app/), [Coolors](https://coolors.co/) or [Palx](https://palx.jxnblk.com/) to generate a palette.
+
 
 Learning Material:
 
