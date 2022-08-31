@@ -6,10 +6,6 @@ Learning Videos:
 
 [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
 
-Color Palettes:
-
-You can use websites like [Smart Swatch](https://smart-swatch.netlify.app/), [Coolors](https://coolors.co/) or [Palx](https://palx.jxnblk.com/) to generate a palette. It can also be used to define your own [colorScheme](https://github.com/chakra-ui/chakra-ui/discussions/2846) palette.
-
 
 Learning Material:
 
@@ -58,10 +54,12 @@ Design System:
 
 [Build and Ship a Design System in 8 Steps Using Backlight](https://tympanus.net/codrops/2022/01/24/build-and-ship-a-design-system-in-8-steps-using-backlight/)
 
+Color Resources:
+
+You can use websites like [Themera](https://themera.vercel.app/), [Smart Swatch](https://smart-swatch.netlify.app/), [Coolors](https://coolors.co/) or [Palx](https://palx.jxnblk.com/) to generate a palette. It can also be used to define your own [colorScheme](https://github.com/chakra-ui/chakra-ui/discussions/2846) palette. You can also check out the [default theme](https://chakra-ui.com/docs/styled-system/theme).
 
 
-
-Resources:
+Other Resources:
 
 [Awesome Chakra UI Resources](https://github.com/chakra-ui/awesome-chakra-ui)
 
