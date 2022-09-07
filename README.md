@@ -1,5 +1,7 @@
 # Learning Projects for Chakra UI with Next.js
 
+[The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
+
 Learning Videos:
 
 [Learn how to use Chakra UI like a Pro](https://www.chakrauiforbeginners.com/)
