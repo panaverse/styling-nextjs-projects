@@ -2,6 +2,8 @@
 
 [The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
 
+[After completeting these project you will learn latest UI Design Trends for this repo](https://github.com/panacloud-modern-global-apps/ui-design-trends)
+
 [8 Reasons Why I Love Chakra-UI](https://levelup.gitconnected.com/8-reasons-why-i-love-chakra-ui-bad36e821282)
 
 Learning Videos:
