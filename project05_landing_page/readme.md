@@ -13,3 +13,7 @@ Header Component:
 Hero Component:
 
 ![Chakra Hero](chakra-hero.jpeg)
+
+Additional Learning Material:
+
+[Chakra UI for Beginners Playlist](https://www.youtube.com/playlist?list=PLx2Y9Sna27Xt3deeeOLqW59-mdWpUWQ0T)
