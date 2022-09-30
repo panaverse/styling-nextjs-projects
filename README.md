@@ -6,6 +6,8 @@
 
 [8 Reasons Why I Love Chakra-UI](https://levelup.gitconnected.com/8-reasons-why-i-love-chakra-ui-bad36e821282)
 
+[Watch Chakra UI with Segun Adebayo, the Creator of Chakra UI](https://www.youtube.com/watch?v=l7nyRBxQ9vo)
+
 Learning Videos:
 
 [Learn how to use Chakra UI like a Pro](https://www.chakrauiforbeginners.com/)
