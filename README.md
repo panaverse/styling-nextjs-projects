@@ -1,6 +1,8 @@
-# Learning Projects for Chakra UI with Next.js
+# Learning by Developing Next.js Projects
 
 [The repo is part of the Certified Web 3 and Metaverse Developer Program](https://www.panaverse.co/)
+
+## You are required to build two versions of each project, one with TailwindCSS and the other with Chakra UI
 
 [After completeting these project you will learn the latest UI Design Trends for this repo](https://github.com/panacloud-modern-global-apps/ui-design-trends)
 
